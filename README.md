@@ -1,0 +1,1 @@
+Silly little project for my MSDS 453 class. Doing sentiment analysis on Google's GoEmotions dataset and then allowing a user to input a sentence and then guess whatever emotion it can from the sentence.
